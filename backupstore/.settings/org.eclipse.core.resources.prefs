@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/core/__init__.py=utf8
+encoding//src/core/common/backupstoredbfile.py=utf8
+encoding//src/core/common/metaoperation.py=utf8
+encoding//src/core/common/rsyncbootstrap.py=utf8
+encoding//src/core/common/tools.py=utf8
+encoding//src/core/operations/archive.py=utf8
+encoding//src/core/operations/dump.py=utf8
+encoding//src/core/operations/restore.py=utf8
+encoding//src/core/operations/search.py=utf8
+encoding//src/core/operations/verify.py=utf8
+encoding//src/manager/__init__.py=utf8
+encoding//src/manager/config.py=utf8
+encoding//src/manager/crypto.py=utf8
+encoding//src/manager/main.py=utf8
+encoding//src/tests/dataBase.py=utf8
+encoding//src/tests/tools.py=utf8
